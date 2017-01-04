@@ -212,5 +212,7 @@ public class SystemSettingsValidators {
         VALIDATORS.put(System.STATUS_BAR_BATTERY_STYLE, new InclusiveIntegerRangeValidator(0, 2));
         VALIDATORS.put(System.STATUS_BAR_SHOW_BATTERY_PERCENT, new InclusiveIntegerRangeValidator(0, 2));
         VALIDATORS.put(System.VOLBTN_MUSIC_CONTROLS, BOOLEAN_VALIDATOR);
+        VALIDATORS.put(System.NETWORK_TRAFFIC_STATE, BOOLEAN_VALIDATOR);
+        VALIDATORS.put(System.NETWORK_TRAFFIC_AUTOHIDE_THRESHOLD, BOOLEAN_VALIDATOR);
     }
 }
