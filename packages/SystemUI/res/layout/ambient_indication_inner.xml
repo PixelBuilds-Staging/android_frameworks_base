@@ -9,7 +9,7 @@
     android:layout_marginEnd="41.0dip"
     android:layout_marginStart="41.0dip"
     android:orientation="vertical"
-    android:paddingTop="8.0dip"
+    android:paddingTop="2.0dip"
     android:visibility="gone">
 
     <LinearLayout
