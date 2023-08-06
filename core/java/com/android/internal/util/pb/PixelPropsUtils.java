@@ -131,21 +131,27 @@ public class PixelPropsUtils {
         propsToChangePixel8Pro.put("MANUFACTURER", "Google");
         propsToChangePixel8Pro.put("DEVICE", "husky");
         propsToChangePixel8Pro.put("PRODUCT", "husky");
+        propsToChangePixel8Pro.put("HARDWARE", "husky");
         propsToChangePixel8Pro.put("MODEL", "Pixel 8 Pro");
         propsToChangePixel8Pro.put("FINGERPRINT", "google/husky/husky:14/AP1A.240305.019.A1/11445699:user/release-keys");
+        propsToChangePixel8Pro.put("ID", "AP1A.240305.019.A1");
         propsToChangePixel5 = new HashMap<>();
         propsToChangePixel5.put("BRAND", "google");
         propsToChangePixel5.put("MANUFACTURER", "Google");
         propsToChangePixel5.put("DEVICE", "barbet");
         propsToChangePixel5.put("PRODUCT", "barbet");
+        propsToChangePixel5.put("HARDWARE", "barbet");
         propsToChangePixel5.put("MODEL", "Pixel 5a");
         propsToChangePixel5.put("FINGERPRINT", "google/barbet/barbet:14/AP1A.240305.019.A1/11445699:user/release-keys");
+        propsToChangePixel5.put("ID", "AP1A.240305.019.A1");
         propsToChangePixelXL = new HashMap<>();
         propsToChangePixelXL.put("BRAND", "google");
         propsToChangePixelXL.put("MANUFACTURER", "Google");
         propsToChangePixelXL.put("DEVICE", "marlin");
         propsToChangePixelXL.put("PRODUCT", "marlin");
+        propsToChangePixelXL.put("HARDWARE", "marlin");
         propsToChangePixelXL.put("MODEL", "Pixel XL");
+        propsToChangePixelXL.put("ID", "QP1A.191005.007.A3");
         propsToChangePixelXL.put("FINGERPRINT", "google/marlin/marlin:10/QP1A.191005.007.A3/5972272:user/release-keys");
     }
 
