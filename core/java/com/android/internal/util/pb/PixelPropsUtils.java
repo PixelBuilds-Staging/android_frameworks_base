@@ -62,6 +62,10 @@ public class PixelPropsUtils {
             "com.google.pixel.livewallpaper",
             "com.google.android.wallpaper.effects",
             "com.google.android.apps.emojiwallpaper",
+            "com.google.android.apps.turbo",
+            "com.google.android.gms",
+            "com.google.android.inputmethod.latin",
+            "com.google.android.setupwizard"
     };
 
     private static final String[] extraPackagesToChange = {
@@ -83,7 +87,6 @@ public class PixelPropsUtils {
             "com.google.android.apps.tachyon",
             "com.google.android.apps.tycho",
             "com.google.android.as",
-            "com.google.android.gms",
             "com.google.android.apps.restore"
     };
 
