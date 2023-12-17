@@ -40,4 +40,14 @@
 
     <!-- Expected value from fast charging status file  -->
     <string name="config_oemFastChargerStatusValue" translatable="false">1</string>
+
+    <!-- Build properties from a GMS certified device against current platform SPL level -->
+    <string-array name="config_certifiedBuildProperties" translatable="false">
+     <!--
+       <item>"device"</item>
+       <item>"product"</item>
+       <item>"model"</item>
+       <item>"fingerprint"</item>
+     -->
+    </string-array>
 </resources>
