@@ -112,9 +112,7 @@ public class PixelPropsUtils {
             "bluejay",
             "oriole",
             "raven",
-            "barbet",
-            "redfin",
-            "bramble"
+            "barbet"
     };
 
     private static volatile boolean sIsGms, sIsFinsky, sIsPhotos;
