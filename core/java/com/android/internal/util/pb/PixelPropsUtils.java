@@ -91,7 +91,8 @@ public class PixelPropsUtils {
             "com.google.android.apps.tachyon",
             "com.google.android.apps.tycho",
             "com.google.android.as",
-            "com.google.android.apps.restore"
+            "com.google.android.apps.restore",
+            "com.google.android.apps.nexuslauncher"
     };
 
     private static final String[] customGoogleCameraPackages = {
