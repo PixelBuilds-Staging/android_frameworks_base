@@ -48,7 +48,7 @@
     <bool name="config_batterySaver_full_deferKeyValueBackup">true</bool>
 
     <!-- Default for BatterySaverPolicy.DEFAULT_FULL_POLICY.disableAnimation -->
-    <bool name="config_batterySaver_full_disableAnimation">false</bool>
+    <bool name="config_batterySaver_full_disableAnimation">true</bool>
 
     <!-- Default for BatterySaverPolicy.DEFAULT_FULL_POLICY.disableAod -->
     <bool name="config_batterySaver_full_disableAod">true</bool>
@@ -60,7 +60,7 @@
     <bool name="config_batterySaver_full_disableOptionalSensors">true</bool>
 
     <!-- Default for BatterySaverPolicy.DEFAULT_FULL_POLICY.disableVibration -->
-    <bool name="config_batterySaver_full_disableVibration">false</bool>
+    <bool name="config_batterySaver_full_disableVibration">true</bool>
 
     <!-- Default for BatterySaverPolicy.DEFAULT_FULL_POLICY.enableAdjustBrightness -->
     <bool name="config_batterySaver_full_enableAdjustBrightness">false</bool>
@@ -91,4 +91,3 @@
        (SOUND_TRIGGER_MODE_CRITICAL_ONLY) -->
     <integer name="config_batterySaver_full_soundTriggerMode">1</integer>
 </resources>
-
